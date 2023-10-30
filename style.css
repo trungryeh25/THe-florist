@@ -400,3 +400,11 @@ body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: rgb(0, 0, 0);
 }
+
+/*store.html*/
+.show{
+    color: #368d83;
+    font-size: 2em;
+    font-family: 'Popins', sans-serif;
+    top: 0px;
+}
